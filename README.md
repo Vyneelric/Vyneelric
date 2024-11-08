@@ -4,8 +4,8 @@ Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI de Jandira, com 
 
 
 ## GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyneelric&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyneelric&hide_progress=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyneelric&show_icons=true&theme=merko&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyneelric&hide_progress=true&theme=merko&locale=pt-br)
 <div style="display: inline_block">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
