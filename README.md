@@ -10,6 +10,5 @@ Sou desenvolvedor ex-aluno do SENAI em busca de obter novos conhecimentos!
 
 ##
 <div>
-  <a href="https://www.instagram.com/vineeelric/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-jos%C3%A9-lopes-cardoso-60a8702b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
