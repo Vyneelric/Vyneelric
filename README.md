@@ -1,9 +1,6 @@
 ## Oi!! Eu sou o Vinícius José 😳
-Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI de Jandira, com o objetivo de me aprofundar e ganhar mais experiência na área de tecnologia como desenvolvedor.
+Sou desenvolvedor ex-aluno do SENAI em busca de obter novos conhecimentos!
 
-
-
-## GitHub
 <div style="display: inline_block">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
